@@ -6,8 +6,8 @@ The code segment therefore represents my solution to my dilemma. By using a bina
 
 
 Here is a lift of the repositories containing the code for each project shown in my video in order:
-https://github.com/NathanDonagi/Analytical-Balance
-https://github.com/NathanDonagi/Roomba-Discord-Bot
-https://github.com/NathanDonagi/Google-App-Script-Unblocker
-https://github.com/NathanDonagi/A-Trot-Through-Time
+https://github.com/NathanDonagi/Analytical-Balance,
+https://github.com/NathanDonagi/Roomba-Discord-Bot,
+https://github.com/NathanDonagi/Google-App-Script-Unblocker,
+https://github.com/NathanDonagi/A-Trot-Through-Time,
 https://github.com/NathanDonagi/Itsy-Bitsy-Robot
