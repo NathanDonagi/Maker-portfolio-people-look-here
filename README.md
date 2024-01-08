@@ -1,4 +1,4 @@
-I highlited code segments in the repositories: [Google App Script Unblocker](https://github.com/NathanDonagi/Google-App-Script-Unblocker), [Roomba Discord Bot](https://github.com/NathanDonagi/Roomba-Discord-Bot), and [Analytical Balance](https://github.com/NathanDonagi/Analytical-Balance). The highlited code segment and its accompanying explentation is found in each repositoires read me.
+I highlighted code segments in the repositories: [Google App Script Unblocker](https://github.com/NathanDonagi/Google-App-Script-Unblocker), [Roomba Discord Bot](https://github.com/NathanDonagi/Roomba-Discord-Bot), and [Analytical Balance](https://github.com/NathanDonagi/Analytical-Balance). The highlited code segment and its accompanying explentation is found in each repositoires read me.
 
 The repositoires for the other two projects shown in the video can be found at: [A Trot Through Time](https://github.com/NathanDonagi/A-Trot-Through-Time) and [Itsy Bitsy Robot](https://github.com/NathanDonagi/Itsy-Bitsy-Robot).
 
